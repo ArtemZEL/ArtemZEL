@@ -1,7 +1,7 @@
 ### Hi there 
 ### My name is Artem
 <div id="header" align="center">
-  <img src="https://i.gifer.com/QACY.gif" width="100"/>
+  <img src="https://i.gifer.com/QACY.gif"/>
 </div>
 
 
