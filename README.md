@@ -1,6 +1,6 @@
 ### Hi there 
 ### My name is Artem
-![github4](https://user-images.githubusercontent.com/80000258/189546388-99c39678-cc0c-436f-9c29-9445a2051303.gif)
+
 
 
 
