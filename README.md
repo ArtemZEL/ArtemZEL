@@ -1,5 +1,5 @@
 ### Hi there 🖐 
-<h1 style = "text-align: center;"> My name is Artem </h1>
+<h1 style = "align: center;"> My name is Artem </h1>
 
 
 
