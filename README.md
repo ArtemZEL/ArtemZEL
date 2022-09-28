@@ -1,5 +1,5 @@
 ### Hi there 🖐 
-### My name is Artem
+<h1 style = "align:center;"> My name is Artem </h1>
 
 
 
