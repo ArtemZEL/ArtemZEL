@@ -1,9 +1,6 @@
 ### Hi there 
 ### My name is Artem
-<div id="header" align="center">
-<img src="[https://i.gifer.com/QACY.gif](https://user-images.githubusercontent.com/80000258/189546388-99c39678-cc0c-436f-9c29-9445a2051303.gif"/>
-</div>
-
+![Image](https://i.gifer.com/QACY.gif)
 
 
 
