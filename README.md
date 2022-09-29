@@ -1,8 +1,7 @@
 ### Hi there 🖐 
 <h1 align="center"> My name is Artem </h1>
-![fxk4](https://user-images.githubusercontent.com/95905757/192945534-2a3da580-ecef-4b6b-a0be-991e154e95b2.gif)
+![Pixel-Art-Background-Gif-1920x1080-1041-Uuu-Pixel-Art-](https://user-images.githubusercontent.com/95905757/192946991-0c3537f4-9b98-479b-a732-517c3b7b54d6.gif)
 
-![Диаграмма без названия drawio](https://user-images.githubusercontent.com/95905757/192946096-eb2a4e5a-4272-4649-bcd5-3ba412fefd4d.png)
 
 
 <!--
