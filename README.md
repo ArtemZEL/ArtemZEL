@@ -1,6 +1,6 @@
 ### Hi there 🖐 
 <h1 align="center"> My name is Artem </h1>
-![Pixel-Art-Background-Gif-1920x1080-1041-Uuu-Pixel-Art-](https://user-images.githubusercontent.com/95905757/192946991-0c3537f4-9b98-479b-a732-517c3b7b54d6.gif)
+
 
 
 
