@@ -1,8 +1,6 @@
 ### Hi there 🖐 
 <h1 align="center"> My name is Artem </h1>
-
-
-
+![QACY](https://user-images.githubusercontent.com/95905757/192944933-4e40ab57-f94e-4d50-938d-edae8f641df2.gif)
 
 
 
