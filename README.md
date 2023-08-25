@@ -26,5 +26,5 @@ I am a pleasant and sociable person. <br>
 
 ## 🌐 My Socials
 [![LinkedIn](https://img.shields.io/static/v1?label&message=LinkedIn&color=grey&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/зеленок-артем-447b34243/)
-[![Gmail](https://img.shields.io/static/v1?label&message=Gmail&color=grey&style=for-the-badge&logo=gmail)](artemzelenok60@gmail.com)
+
 
