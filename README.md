@@ -24,6 +24,16 @@ I am a pleasant and sociable person. <br>
     <img src = "https://img.shields.io/static/v1?label&message=typescript&color=grey&style=for-the-badge&logo=typescript">
 </div>
 
-## 🌐 My Socials
-[![LinkedIn](https://img.shields.io/static/v1?label&message=LinkedIn&color=grey&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/зеленок-артем-447b34243/)
+<h2 align="center">🌐 My Socials</h2> 
 
+[![LinkedIn](https://img.shields.io/static/v1?label&message=LinkedIn&color=grey&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/зеленок-артем-447b34243/) 
+[![VK](https://img.shields.io/static/v1?label&message=VK&color=grey&style=for-the-badge&logo=vk)](https://vk.com/a.zelenok444)
+[![Mail](https://img.shields.io/static/v1?label&message=mail&color=grey&style=for-the-badge&logo=mail.ru)](https://artem.zelenok.03@mail.ru)
+[![Gmail](https://img.shields.io/static/v1?label&message=gmail&color=white&style=for-the-badge&logo=gmail)](https://artemzelenok60@gmail.com)
+[![Facebook](https://img.shields.io/static/v1?label&message=Facebook&color=white&style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=61550604784190)
+ <h2 align="center">📊 GitHub Stats:</h2> 
+ 
+
+![GitStat](https://github-readme-stats.vercel.app/api?username=ArtemZEL&theme=react&hide_border=false&include_all_commits=True&count_private=true)
+
+![Toplanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemZEL&theme=react&hide_border=false&include_all_commits=True&count_private=true&layout=compact)
