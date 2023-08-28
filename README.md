@@ -13,15 +13,15 @@ I am a pleasant and sociable person. <br>
 <h2 align="center">
   Languages and tools
 </h2>
-  <img src = "https://img.shields.io/static/v1?label&message=JavaScript&color=grey&style=for-the-badge&logo=javascript">
-  <img src = "https://img.shields.io/static/v1?label&message=C%23&color=grey&style=for-the-badge">
-  <img src = "https://img.shields.io/static/v1?label&message=HTML&color=grey&style=for-the-badge&logo=html5">
-  <img src = "  https://img.shields.io/static/v1?label&message=CSS&color=grey&style=for-the-badge&logo=css3">
-  <img src = "https://img.shields.io/static/v1?label&message=React&color=grey&style=for-the-badge&logo=react">
-    <img src = "https://img.shields.io/static/v1?label&message=Redux&color=grey&style=for-the-badge&logo=redux">  <img src = "https://img.shields.io/static/v1?&label&message=SCSS,SASS&color=grey&style=for-the-badge&logo=sass">  <img src = "https://img.shields.io/static/v1?label&message=BOOTSTRAP&color=grey&style=for-the-badge&logo=bootstrap">
-    <img src = "https://img.shields.io/static/v1?label&message=Node.JS&color=grey&style=for-the-badge&logo=node.js">
-    <img src = "https://img.shields.io/static/v1?label&message=ASP.net&color=grey&style=for-the-badge&logo=.net">
-    <img src = "https://img.shields.io/static/v1?label&message=typescript&color=grey&style=for-the-badge&logo=typescript">
+  <img src = "https://img.shields.io/static/v1?label&message=JavaScript&color=black&style=for-the-badge&logo=javascript">
+  <img src = "https://img.shields.io/static/v1?label&message=C%23&color=black&style=for-the-badge">
+  <img src = "https://img.shields.io/static/v1?label&message=HTML&color=black&style=for-the-badge&logo=html5">
+  <img src = "  https://img.shields.io/static/v1?label&message=CSS&color=black&style=for-the-badge&logo=css3">
+  <img src = "https://img.shields.io/static/v1?label&message=React&color=black&style=for-the-badge&logo=react">
+    <img src = "https://img.shields.io/static/v1?label&message=Redux&color=black&style=for-the-badge&logo=redux">  <img src = "https://img.shields.io/static/v1?&label&message=SCSS,SASS&color=black&style=for-the-badge&logo=sass">  <img src = "https://img.shields.io/static/v1?label&message=BOOTSTRAP&color=black&style=for-the-badge&logo=bootstrap">
+    <img src = "https://img.shields.io/static/v1?label&message=Node.JS&color=black&style=for-the-badge&logo=node.js">
+    <img src = "https://img.shields.io/static/v1?label&message=ASP.net&color=black&style=for-the-badge&logo=.net">
+    <img src = "https://img.shields.io/static/v1?label&message=typescript&color=black&style=for-the-badge&logo=typescript">
 </div>
 
 <h2 align="center">🌐 My Socials</h2> 
