@@ -31,6 +31,7 @@ I am a pleasant and sociable person. <br>
 [![Mail](https://img.shields.io/static/v1?label&message=mail&color=black&style=for-the-badge&logo=mail.ru)](https://artem.zelenok.03@mail.ru)
 [![Gmail](https://img.shields.io/static/v1?label&message=gmail&color=black&style=for-the-badge&logo=gmail)](https://artemzelenok60@gmail.com)
 [![Facebook](https://img.shields.io/static/v1?label&message=Facebook&color=black&style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=61550604784190)
+[![Instagram](https://img.shields.io/static/v1?label&message=Instagram&color=black&style=for-the-badge&logo=instagram)](https://instagram.com/artemzelenok60?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
  <h2 align="center">📊 GitHub Stats:</h2> 
  
 
