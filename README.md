@@ -33,8 +33,7 @@ I am a pleasant and sociable person. <br>
 [![Facebook](https://img.shields.io/static/v1?label&message=Facebook&color=black&style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=61550604784190)
 [![Instagram](https://img.shields.io/static/v1?label&message=Instagram&color=black&style=for-the-badge&logo=instagram)](https://instagram.com/artemzelenok60?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
  <h2 align="center">📊 GitHub Stats:</h2> 
- 
 
-![GitStat](https://github-readme-stats.vercel.app/api?username=ArtemZEL&theme=react&hide_border=false&include_all_commits=True&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemZEL&show_icons=true&theme=radical)
 
-![Toplanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemZEL&theme=react&hide_border=false&include_all_commits=True&count_private=true&layout=compact)
+![Toplanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemZEL&theme=react&hide_border=false&include_all_commits=True&count_private=true&layout=compact&)
