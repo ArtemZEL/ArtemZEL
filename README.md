@@ -26,7 +26,7 @@ I am a pleasant and sociable person. <br>
 
 <h2 align="center">🌐 My Socials</h2> 
 
-[![LinkedIn](https://img.shields.io/static/v1?label&message=LinkedIn&color=black&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/зеленок-артем-447b34243/) 
+[![LinkedIn](https://img.shields.io/static/v1?label&message=LinkedIn&color=black&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/artem-zelianok-447b34243/) 
 [![VK](https://img.shields.io/static/v1?label&message=VK&color=black&style=for-the-badge&logo=vk)](https://vk.com/a.zelenok444)
 [![Mail](https://img.shields.io/static/v1?label&message=mail&color=black&style=for-the-badge&logo=mail.ru)](https://artem.zelenok.03@mail.ru)
 [![Gmail](https://img.shields.io/static/v1?label&message=gmail&color=black&style=for-the-badge&logo=gmail)](https://artemzelenok60@gmail.com)
@@ -34,6 +34,6 @@ I am a pleasant and sociable person. <br>
 [![Instagram](https://img.shields.io/static/v1?label&message=Instagram&color=black&style=for-the-badge&logo=instagram)](https://instagram.com/artemzelenok60?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
  <h2 align="center">📊 GitHub Stats:</h2> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemZEL&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemZEL&show_icons=true&theme=radical)
 
 ![Toplanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemZEL&theme=react&hide_border=false&include_all_commits=True&count_private=true&layout=compact&)
