@@ -35,10 +35,13 @@ I am a pleasant and sociable person. <br>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" height="40"/>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt=".NET" title=".NET" height="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="mysql" title="mysql" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mssql" title="mssql" height="40" />
+          
 </div>
 <h2 align="center">🌐 My Socials</h2> 
-<p align="center">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/static/v1?label&message=LinkedIn&color=black&style=for-the-badge&logo=)](https://www.linkedin.com/in/artiom-zelianok-447b34243/) 
 [![VK](https://img.shields.io/static/v1?label&message=VK&color=black&style=for-the-badge&logo=vk)](https://vk.com/a.zelenok444)
@@ -47,7 +50,7 @@ I am a pleasant and sociable person. <br>
 [![Instagram](https://img.shields.io/static/v1?label&message=Instagram&color=black&style=for-the-badge&logo=instagram)](https://www.instagram.com/artzelenl?igsh=MWp3M2tieGZqdzI3bA%3D%3D&utm_source=qr)
 [![Treads](https://img.shields.io/static/v1?label&message=Treads&color=black&style=for-the-badge&logo)](https://www.threads.com/@artzelenl?igshid=NTc4MTIwNjQ2YQ==)
 
-</p>
+</div>
 
 <h2 align="center">📊 GitHub Stats:</h2> 
 
