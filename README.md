@@ -11,28 +11,40 @@ I am a pleasant and sociable person. <br>
 <img align="center" alt="Coding"  src="https://user-images.githubusercontent.com/95905757/192964845-c3ff5c55-b6ab-4218-9261-ad669c8854aa.gif">
 <div>
 <h2 align="center">
-  Languages and tools
+  Skils
 </h2>
-  <img src = "https://img.shields.io/static/v1?label&message=JavaScript&color=black&style=for-the-badge&logo=javascript">
-  <img src = "https://img.shields.io/static/v1?label&message=C%23&color=black&style=for-the-badge">
-  <img src = "https://img.shields.io/static/v1?label&message=HTML&color=black&style=for-the-badge&logo=html5">
-  <img src = "  https://img.shields.io/static/v1?label&message=CSS&color=black&style=for-the-badge&logo=css3">
-  <img src = "https://img.shields.io/static/v1?label&message=React&color=black&style=for-the-badge&logo=react">
-    <img src = "https://img.shields.io/static/v1?label&message=Redux&color=black&style=for-the-badge&logo=redux">  <img src = "https://img.shields.io/static/v1?&label&message=SCSS,SASS&color=black&style=for-the-badge&logo=sass">  <img src = "https://img.shields.io/static/v1?label&message=BOOTSTRAP&color=black&style=for-the-badge&logo=bootstrap">
-    <img src = "https://img.shields.io/static/v1?label&message=Node.JS&color=black&style=for-the-badge&logo=node.js">
-    <img src = "https://img.shields.io/static/v1?label&message=ASP.net&color=black&style=for-the-badge&logo=.net">
-    <img src = "https://img.shields.io/static/v1?label&message=typescript&color=black&style=for-the-badge&logo=typescript">
+ <p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a>
+</p>
+<p align="center">
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
+</p>
 </div>
 
 <h2 align="center">🌐 My Socials</h2> 
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/static/v1?label&message=LinkedIn&color=black&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/artiom-zelianok-447b34243/) 
+[![LinkedIn](https://img.shields.io/static/v1?label&message=LinkedIn&color=black&style=for-the-badge&logo=)](https://www.linkedin.com/in/artiom-zelianok-447b34243/) 
 [![VK](https://img.shields.io/static/v1?label&message=VK&color=black&style=for-the-badge&logo=vk)](https://vk.com/a.zelenok444)
 [![Mail](https://img.shields.io/static/v1?label&message=mail&color=black&style=for-the-badge&logo=mail.ru)](https://artem.zelenok.03@mail.ru)
 [![Gmail](https://img.shields.io/static/v1?label&message=gmail&color=black&style=for-the-badge&logo=gmail)](https://artemzelenok60@gmail.com)
-[![Facebook](https://img.shields.io/static/v1?label&message=Facebook&color=black&style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=61550604784190)
 [![Instagram](https://img.shields.io/static/v1?label&message=Instagram&color=black&style=for-the-badge&logo=instagram)](https://instagram.com/artemzelenok60?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
- <h2 align="center">📊 GitHub Stats:</h2> 
+[![Treads](https://img.shields.io/static/v1?label&message=Treads&color=black&style=for-the-badge&logo)]()
+
+</p>
+
+<h2 align="center">📊 GitHub Stats:</h2> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemZEL&show_icons=true&theme=radical)
 
