@@ -22,6 +22,7 @@ I am a pleasant and sociable person. <br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" height="40" />
 </div>
 
 <div align="center" style="pa">
@@ -32,7 +33,9 @@ I am a pleasant and sociable person. <br>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#"  height="40" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" height="40"/>
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt=".NET" title=".NET" height="40"/>
 </div>
 <h2 align="center">🌐 My Socials</h2> 
 <p align="center">
@@ -41,8 +44,8 @@ I am a pleasant and sociable person. <br>
 [![VK](https://img.shields.io/static/v1?label&message=VK&color=black&style=for-the-badge&logo=vk)](https://vk.com/a.zelenok444)
 [![Mail](https://img.shields.io/static/v1?label&message=mail&color=black&style=for-the-badge&logo=mail.ru)](https://artem.zelenok.03@mail.ru)
 [![Gmail](https://img.shields.io/static/v1?label&message=gmail&color=black&style=for-the-badge&logo=gmail)](https://artemzelenok60@gmail.com)
-[![Instagram](https://img.shields.io/static/v1?label&message=Instagram&color=black&style=for-the-badge&logo=instagram)](https://instagram.com/artemzelenok60?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
-[![Treads](https://img.shields.io/static/v1?label&message=Treads&color=black&style=for-the-badge&logo)]()
+[![Instagram](https://img.shields.io/static/v1?label&message=Instagram&color=black&style=for-the-badge&logo=instagram)](https://www.instagram.com/artzelenl?igsh=MWp3M2tieGZqdzI3bA%3D%3D&utm_source=qr)
+[![Treads](https://img.shields.io/static/v1?label&message=Treads&color=black&style=for-the-badge&logo)](https://www.threads.com/@artzelenl?igshid=NTc4MTIwNjQ2YQ==)
 
 </p>
 
