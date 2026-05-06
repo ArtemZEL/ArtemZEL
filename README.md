@@ -43,13 +43,12 @@ I am a pleasant and sociable person. <br>
 <h2 align="center">🌐 My Socials</h2> 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/static/v1?label&message=LinkedIn&color=black&style=for-the-badge&logo=)](https://www.linkedin.com/in/artiom-zelianok-447b34243/) 
 [![VK](https://img.shields.io/static/v1?label&message=VK&color=black&style=for-the-badge&logo=vk)](https://vk.com/a.zelenok444)
-[![Mail](https://img.shields.io/static/v1?label&message=mail&color=black&style=for-the-badge&logo=mail.ru)](https://artem.zelenok.03@mail.ru)
-[![Gmail](https://img.shields.io/static/v1?label&message=gmail&color=black&style=for-the-badge&logo=gmail)](https://artemzelenok60@gmail.com)
+[![Mail](https://img.shields.io/static/v1?label&message=mail&color=black&style=for-the-badge&logo=mail.ru)](artem.zelenok.03@mail.ru)
+[![Gmail](https://img.shields.io/static/v1?label&message=gmail&color=black&style=for-the-badge&logo=gmail)](artemzelenok60@gmail.com)
 [![Instagram](https://img.shields.io/static/v1?label&message=Instagram&color=black&style=for-the-badge&logo=instagram)](https://www.instagram.com/artzelenl?igsh=MWp3M2tieGZqdzI3bA%3D%3D&utm_source=qr)
-[![Treads](https://img.shields.io/static/v1?label&message=Treads&color=black&style=for-the-badge&logo)](https://www.threads.com/@artzelenl?igshid=NTc4MTIwNjQ2YQ==)
-
+[![Threads](https://img.shields.io/static/v1?label&message=Threads&color=black&style=for-the-badge&logo=threads)](https://www.threads.com/@artzelenl?igshid=NTc4MTIwNjQ2YQ==)
+<a href="https://linkedin.com/in/litomore"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=fff&style=for-the-badge" /></a>
 </div>
 
 <h2 align="center">📊 GitHub Stats:</h2> 
