@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hi there 🙌 <br> My name is Artem </h1>  
+  <h1 align="center">Hi there 🙌 <br> My name is Artiom </h1>  
   <h1 align="left">I'm Junior Developer</h1>
   <h1 align="left">
 Create projects for front-end and backend. <br> 
